@@ -1,5 +1,6 @@
 ###############
 Save The Change
+THANKS FOR THIS CODE
 ###############
 
 .. image:: https://img.shields.io/pypi/v/django-save-the-change.svg
